@@ -60,6 +60,16 @@
             <artifactId>springdoc-openapi-ui</artifactId>
             <version>1.6.11</version>
         </dependency>
+        <dependency>
+        	<groupId>com.cg</groupId>
+        	<artifactId>CreditCardPayment</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+        	<groupId>com.demo</groupId>
+        	<artifactId>jpahibernate</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>
